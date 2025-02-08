@@ -20,7 +20,12 @@ final class GetMostPopularArticles: EndPointType {
     var httpMethod: HTTPMethod { .get }
     
     var task: HTTPTask {
-        let requestParameters: [String:Any] = ["api-key" : Constant.apiKey]
+        
+        let apiKey = Bundle.main.object(
+                    forInfoDictionaryKey: "API_KEY"
+                )!
+    
+        let requestParameters: [String:Any] = ["api-key" : apiKey]
         return .requestParameters(bodyParameters: nil,
                                   bodyEncoding: .urlEncoding,
                                   urlParameters: requestParameters)
