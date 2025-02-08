@@ -22,7 +22,7 @@ final class NetworkClient : NetworkClientProtocol, NetworkParser {
     }
     
     func fetchPopularArticles(completionHandler: @escaping (Result<NYTimesArticlsListResponse, Errors>) -> Void){
-        networkManager.fetch(request: .getMostPopularArticles){  data, error in
+        networkManager.fetch(request: GetMostPopularArticles()){  data, error in
             if let error = error {
                 completionHandler(.failure(Errors.apiError(error: error)))
                 return

@@ -10,15 +10,14 @@ import Foundation
 public typealias NetworkRouterCompletion = (_ data: Data?,_ response: URLResponse?,_ error: Error?)->()
 
 protocol NetworkRouter: AnyObject {
-    associatedtype EndPoint: EndPointType
-    func request(_ route: EndPoint, completion: @escaping NetworkRouterCompletion)
+    func request(_ route: EndPointType, completion: @escaping NetworkRouterCompletion)
     func cancel()
 }
 
-class Router<EndPoint: EndPointType>: NetworkRouter {
+class Router: NetworkRouter {
     private var task: URLSessionTask?
 
-    func request(_ route: EndPoint, completion: @escaping NetworkRouterCompletion) {
+    func request(_ route: EndPointType, completion: @escaping NetworkRouterCompletion) {
         let session = URLSession.shared
         do {
             if let request = try self.buildRequest(from: route) {
@@ -36,7 +35,7 @@ class Router<EndPoint: EndPointType>: NetworkRouter {
         self.task?.cancel()
     }
     
-    fileprivate func buildRequest(from route: EndPoint) throws -> URLRequest? {
+    fileprivate func buildRequest(from route: EndPointType) throws -> URLRequest? {
         
         var url = URL(string: "")
         url = route.baseURL.appendingPathComponent(route.path)

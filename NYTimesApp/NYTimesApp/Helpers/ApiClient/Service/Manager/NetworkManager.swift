@@ -27,16 +27,16 @@ enum NetworkResult<String>{
 }
 
 protocol NetworkManagerProtocol {
-    func fetch(request: NYTimesEndPoint,
+    func fetch(request: EndPointType,
                completion: @escaping (_ data: Data?,
                                       _ error: String?) ->())
 }
 
 struct NetworkManager: NetworkManagerProtocol {
     
-    let router = Router<NYTimesEndPoint>()
+    let router = Router()
    
-    func fetch(request: NYTimesEndPoint,
+    func fetch(request: EndPointType,
                completion: @escaping (_ data: Data?,
                                       _ error: String?) ->()) {
         let reachability = try! Reachability()

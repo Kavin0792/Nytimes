@@ -7,24 +7,14 @@
 
 import Foundation
 
-public enum NYTimesEndPoint {
-    case getMostPopularArticles
-}
-
-extension NYTimesEndPoint: EndPointType {
+final class GetMostPopularArticles: EndPointType {
     
     var baseURL: URL {
-        guard let url = URL(string: URLConstant.baseURL) else {
-            fatalError("baseURL could not be configured.")
-        }
-        return url
+        URL(string: URLConstant.baseURL)!
     }
     
     var path: String {
-        switch self {
-        case .getMostPopularArticles:
-            URLConstant.getMostPopularArticles
-        }
+        URLConstant.getMostPopularArticles
     }
     
     var httpMethod: HTTPMethod { .get }
@@ -36,4 +26,3 @@ extension NYTimesEndPoint: EndPointType {
                                   urlParameters: requestParameters)
     }
 }
-
