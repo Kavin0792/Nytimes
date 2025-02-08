@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NYTimesApp
+
+  Created by Kavin on 06/02/25.
+  
+*/
+
+"listing_title" = "NY Times Most Popular";
+"listing_loader" = "loading";

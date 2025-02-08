@@ -1,0 +1,1273 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://interactive/95685854-0cf2-5dda-bc2f-9ed3b89bf168",
+      "url": "https://www.nytimes.com/interactive/2025/01/08/weather/los-angeles-fire-maps-california.html",
+      "id": 100000009913911,
+      "asset_id": 100000009913911,
+      "source": "New York Times",
+      "published_date": "2025-01-08",
+      "updated": "2025-01-31 13:51:07",
+      "section": "Weather",
+      "subsection": "",
+      "nytdsection": "weather",
+      "adx_keywords": "Wildfires;Southern California Wildfires (Jan 2025);Los Angeles (Calif)",
+      "column": null,
+      "byline": "By Camille Baker, William B. Davis, Madison Dong, Zach Levitt, Joey K. Lee, Bea Malsky, Lazaro Gamio, John Keefe, Agnes Chang, Pablo Robles and Julie Walton Shaver",
+      "type": "Interactive",
+      "title": "Maps: Tracking Southern California Wildfires",
+      "abstract": "See the latest extent of the devastating fires in the Los Angeles area.",
+      "des_facet": [
+        "Wildfires",
+        "Southern California Wildfires (Jan 2025)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-thumbStandard-v36.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-mediumThreeByTwo210-v36.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-mediumThreeByTwo440-v36.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a21a321-5cc8-502e-a032-f2db8defa72f",
+      "url": "https://www.nytimes.com/2025/01/20/us/politics/trump-executive-orders-list.html",
+      "id": 100000009936817,
+      "asset_id": 100000009936817,
+      "source": "New York Times",
+      "published_date": "2025-01-20",
+      "updated": "2025-01-23 06:53:25",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Executive Orders and Memorandums;United States Politics and Government;Government Employees;Immigration and Emigration;Illegal Immigration;Diversity Initiatives;Transgender;Customs (Tariff);International Trade and World Market;Global Warming;Names, Geographical;Security and Warning Systems;Trump, Donald J;TikTok (ByteDance);World Health Organization;Gulf of Mexico",
+      "column": null,
+      "byline": "By Zolan Kanno-Youngs, Michael D. Shear and Noah Weiland",
+      "type": "Article",
+      "title": "Trump’s Executive Orders: Reversing Biden’s Policies and Attacking the ‘Deep State’",
+      "abstract": "The president moved swiftly in his first hours in office, signing a slew of executive orders in front of a roaring crowd and then in the Oval Office.",
+      "des_facet": [
+        "Executive Orders and Memorandums",
+        "United States Politics and Government",
+        "Government Employees",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Diversity Initiatives",
+        "Transgender",
+        "Customs (Tariff)",
+        "International Trade and World Market",
+        "Global Warming",
+        "Names, Geographical",
+        "Security and Warning Systems"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "World Health Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Gulf of Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Capitol building in Washington on Monday.",
+          "copyright": "Chang W. Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20dc-trump-orders-list-cpbg/20dc-trump-orders-list-cpbg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20dc-trump-orders-list-cpbg/20dc-trump-orders-list-cpbg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20dc-trump-orders-list-cpbg/20dc-trump-orders-list-cpbg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/46c86328-f5c9-53e4-9c58-a8faba87b3fa",
+      "url": "https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html",
+      "id": 100000009964616,
+      "asset_id": 100000009964616,
+      "source": "New York Times",
+      "published_date": "2025-02-01",
+      "updated": "2025-02-03 12:11:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Federal Budget (US);Presidential Transition (US);Trump, Donald J;Bessent, Scott;Lebryk, David;Musk, Elon;Government Efficiency Department (US);Treasury Department",
+      "column": null,
+      "byline": "By Andrew Duehren, Maggie Haberman, Theodore Schleifer and Alan Rappeport",
+      "type": "Article",
+      "title": "Elon Musk’s Team Now Has Access to Treasury’s Payments System",
+      "abstract": "Treasury Secretary Scott Bessent gave Mr. Musk’s representatives at the so-called Department of Government Efficiency a powerful tool to monitor and potentially limit government spending.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Presidential Transition (US)"
+      ],
+      "org_facet": [
+        "Government Efficiency Department (US)",
+        "Treasury Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Bessent, Scott",
+        "Lebryk, David",
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Treasury Secretary Scott Bessent granted a handful of members affiliated with the Department of Government Efficiency access to the federal payment system late on Friday.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01trump-news-musk-ztlq/01trump-news-musk-ztlq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01trump-news-musk-ztlq/01trump-news-musk-ztlq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01trump-news-musk-ztlq/01trump-news-musk-ztlq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e4fa5ff0-c930-54ba-b97b-2a4f1a0f4bb5",
+      "url": "https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-family.html",
+      "id": 100000009937656,
+      "asset_id": 100000009937656,
+      "source": "New York Times",
+      "published_date": "2025-01-20",
+      "updated": "2025-01-23 06:51:34",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Amnesties, Commutations and Pardons;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "Biden Pardons 5 Members of His Family in Final Minutes in Office",
+      "abstract": "Mr. Biden emphasized that he did not believe his family did anything wrong, but he feared political attacks by Donald J. Trump.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Amnesties, Commutations and Pardons"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden at the beginning of the swearing in ceremony inside the Capitol on Monday.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20executive-orders-blog-new-biden-pardon-family-01-kzhp/20executive-orders-blog-new-biden-pardon-family-01-kzhp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20executive-orders-blog-new-biden-pardon-family-01-kzhp/20executive-orders-blog-new-biden-pardon-family-01-kzhp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20executive-orders-blog-new-biden-pardon-family-01-kzhp/20executive-orders-blog-new-biden-pardon-family-01-kzhp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2ccee48c-dfac-57dd-af77-17c2e5b1e117",
+      "url": "https://www.nytimes.com/2025/02/02/style/bianca-censori-kanye-grammys.html",
+      "id": 100000009966066,
+      "asset_id": 100000009966066,
+      "source": "New York Times",
+      "published_date": "2025-02-02",
+      "updated": "2025-02-03 10:38:20",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Grammy Awards;Fashion and Apparel;West, Kanye;Censori, Bianca",
+      "column": null,
+      "byline": "By Misty White Sidell",
+      "type": "Article",
+      "title": "What Did Ye’s Wife Wear to the Grammys? Not Much.",
+      "abstract": "Bianca Censori, who has become known for her provocative looks, took the concept of showing skin to another level.",
+      "des_facet": [
+        "Grammy Awards",
+        "Fashion and Apparel"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "West, Kanye",
+        "Censori, Bianca"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ye appeared alongside his wife, Bianca Censori, on the Grammy Awards red carpet. Ms. Censori wore a long shaggy coat, which she later removed.",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02CENSORI-NUDE-hqmv/02CENSORI-NUDE-hqmv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02CENSORI-NUDE-hqmv/02CENSORI-NUDE-hqmv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02CENSORI-NUDE-hqmv/02CENSORI-NUDE-hqmv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3717da2c-fc56-584c-84a8-79c2c03d93cd",
+      "url": "https://www.nytimes.com/2025/01/26/world/americas/colombia-us-deportation-flights.html",
+      "id": 100000009950319,
+      "asset_id": 100000009950319,
+      "source": "New York Times",
+      "published_date": "2025-01-26",
+      "updated": "2025-01-27 13:22:36",
+      "section": "World",
+      "subsection": "Americas",
+      "nytdsection": "world",
+      "adx_keywords": "Politics and Government;United States International Relations;Illegal Immigration;Deportation;Immigration and Emigration;Airlines and Airplanes;International Trade and World Market;Customs (Tariff);Embargoes and Sanctions;Petro, Gustavo;Trump, Donald J;Colombia;Latin America",
+      "column": null,
+      "byline": "By Genevieve Glatsky, Simon Romero and Annie Correal",
+      "type": "Article",
+      "title": "Colombia Agrees to Accept Deportation Flights After Trump Threatens Tariffs",
+      "abstract": "The country’s leader, Gustavo Petro, backed down after a clash with President Trump, which started when Mr. Petro turned back U.S. military planes carrying deportees.",
+      "des_facet": [
+        "Politics and Government",
+        "United States International Relations",
+        "Illegal Immigration",
+        "Deportation",
+        "Immigration and Emigration",
+        "Airlines and Airplanes",
+        "International Trade and World Market",
+        "Customs (Tariff)",
+        "Embargoes and Sanctions"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Petro, Gustavo",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Colombia",
+        "Latin America"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Gustavo Petro of Colombia last year. On Sunday, he said the United States should not treat Colombian migrants as criminals.",
+          "copyright": "Raul Arboleda/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/26/multimedia/26colombia-migrants-gtwc/26colombia-migrants-gtwc-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/26/multimedia/26colombia-migrants-gtwc/26colombia-migrants-gtwc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/26/multimedia/26colombia-migrants-gtwc/26colombia-migrants-gtwc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8326b1b1-884b-5e80-b247-d66bf1898eb4",
+      "url": "https://www.nytimes.com/2025/01/20/style/melania-trump-hat-inauguration-outfit.html",
+      "id": 100000009887298,
+      "asset_id": 100000009887298,
+      "source": "New York Times",
+      "published_date": "2025-01-20",
+      "updated": "2025-01-23 06:52:07",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Inaugurations;Fashion and Apparel;Hats and Caps;First Ladies (US);Trump, Melania;Vance, Usha",
+      "column": null,
+      "byline": "By Vanessa Friedman",
+      "type": "Article",
+      "title": "Melania Trump Tips Her Hat",
+      "abstract": "Inauguration fashion statements from the first lady — as well as the second.",
+      "des_facet": [
+        "Inaugurations",
+        "Fashion and Apparel",
+        "Hats and Caps",
+        "First Ladies (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Vance, Usha"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/23/multimedia/20INAUGURATION-FASHION-01-mpbl/20INAUGURATION-FASHION-01-mpbl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/23/multimedia/20INAUGURATION-FASHION-01-mpbl/20INAUGURATION-FASHION-01-mpbl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/23/multimedia/20INAUGURATION-FASHION-01-mpbl/20INAUGURATION-FASHION-01-mpbl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ae9a39b7-98ea-5567-9583-08d3ee72666c",
+      "url": "https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html",
+      "id": 100000009959543,
+      "asset_id": 100000009959543,
+      "source": "New York Times",
+      "published_date": "2025-01-30",
+      "updated": "2025-02-01 11:13:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "American Airlines Flight 5342;Aviation Accidents, Safety and Disasters;Hiring and Promotion;Diversity Initiatives;Minorities;United States Politics and Government;Trump, Donald J;Federal Aviation Administration",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Trump Blames D.E.I. and Biden for Crash Under His Watch",
+      "abstract": "President Trump’s remarks, suggesting that diversity in hiring and other Biden administration policies somehow caused the disaster, reflected his instinct to immediately frame major events through his political or ideological lens.",
+      "des_facet": [
+        "American Airlines Flight 5342",
+        "Aviation Accidents, Safety and Disasters",
+        "Hiring and Promotion",
+        "Diversity Initiatives",
+        "Minorities",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Federal Aviation Administration"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the assertions President Trump made to reporters on Thursday was that standards for air traffic controllers had been too lax.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30dc-crash-htjp/30dc-crash-htjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30dc-crash-htjp/30dc-crash-htjp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30dc-crash-htjp/30dc-crash-htjp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ec9bb4cc-875e-508f-9219-832f32e98f54",
+      "url": "https://www.nytimes.com/2025/01/31/business/dc-plane-helicopter-crash-cause.html",
+      "id": 100000009960638,
+      "asset_id": 100000009960638,
+      "source": "New York Times",
+      "published_date": "2025-01-31",
+      "updated": "2025-02-02 08:59:51",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;American Airlines Flight 5342;Air Traffic Control;Shortages;Pilots;Helicopters;Airlines and Airplanes;Airports;Workplace Hazards and Violations;American Airlines;Federal Aviation Administration;National Transportation Safety Board;Reagan, Ronald, Washington National Airport;Potomac River;Washington (DC)",
+      "column": null,
+      "byline": "By Sydney Ember, Emily Steel, Mark Walker, Kate Kelly and Niraj Chokshi",
+      "type": "Article",
+      "title": "Washington Crash Renews Concerns About Air Safety Lapses",
+      "abstract": "Clues emerging from the moments before an Army helicopter collided with a passenger jet suggest breakdowns in the system meant to help aircraft land safely at the busy Reagan National Airport.",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "American Airlines Flight 5342",
+        "Air Traffic Control",
+        "Shortages",
+        "Pilots",
+        "Helicopters",
+        "Airlines and Airplanes",
+        "Airports",
+        "Workplace Hazards and Violations"
+      ],
+      "org_facet": [
+        "American Airlines",
+        "Federal Aviation Administration",
+        "National Transportation Safety Board",
+        "Reagan, Ronald, Washington National Airport"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Potomac River",
+        "Washington (DC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crews assessed wreckage on Thursday after a collision between a passenger plane and an Army helicopter late Wednesday.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30crash-safetynet-01-jlwt/30crash-safetynet-01-jlwt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30crash-safetynet-01-jlwt/30crash-safetynet-01-jlwt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30crash-safetynet-01-jlwt/30crash-safetynet-01-jlwt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/329c976d-c968-568f-b8b7-7ead3a60a88c",
+      "url": "https://www.nytimes.com/2025/01/23/opinion/trump-mckinley-populism.html",
+      "id": 100000009941951,
+      "asset_id": 100000009941951,
+      "source": "New York Times",
+      "published_date": "2025-01-23",
+      "updated": "2025-01-24 11:47:59",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Authoritarianism (Theory and Philosophy);Nationalism (Theory and Philosophy);Corruption (Institutional);Polls and Public Opinion;Trump, Donald J",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "How Trump Will Fail",
+      "abstract": "The problem with populism is that it doesn’t work.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Authoritarianism (Theory and Philosophy)",
+        "Nationalism (Theory and Philosophy)",
+        "Corruption (Institutional)",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/24/multimedia/23brooks1-hjbp/23brooks1-hjbp-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/24/multimedia/23brooks1-hjbp/23brooks1-hjbp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/24/multimedia/23brooks1-hjbp/23brooks1-hjbp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f455703d-c5ea-510f-bd0f-6013ba371ac6",
+      "url": "https://www.nytimes.com/2025/02/02/opinion/ezra-klein-podcast-trump-column-read.html",
+      "id": 100000009962680,
+      "asset_id": 100000009962680,
+      "source": "New York Times",
+      "published_date": "2025-02-02",
+      "updated": "2025-02-05 08:43:37",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Power (US);United States Politics and Government;Government Employees;Social Media;Law and Legislation;Courts and the Judiciary;Executive Orders and Memorandums;Trump, Donald J;Bannon, Stephen K;United States",
+      "column": null,
+      "byline": "By Ezra Klein",
+      "type": "Article",
+      "title": "Don’t Believe Him",
+      "abstract": "Look closely at the first two weeks of Donald Trump’s second term and you’ll see something very different than what he wants you to see.",
+      "des_facet": [
+        "Presidential Power (US)",
+        "United States Politics and Government",
+        "Government Employees",
+        "Social Media",
+        "Law and Legislation",
+        "Courts and the Judiciary",
+        "Executive Orders and Memorandums"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Bannon, Stephen K"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/podcasts/02eks-column-read-image/04eks-levin-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/podcasts/02eks-column-read-image/04eks-levin-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/02/podcasts/02eks-column-read-image/04eks-levin-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b5f3fec7-64f7-5e3b-9849-b65cf16f99e4",
+      "url": "https://www.nytimes.com/2025/01/30/us/plane-crash-dc-helicopter-reagan-airport.html",
+      "id": 100000009958354,
+      "asset_id": 100000009958354,
+      "source": "New York Times",
+      "published_date": "2025-01-30",
+      "updated": "2025-02-05 06:12:16",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "American Airlines Flight 5342;Airlines and Airplanes;Aviation Accidents, Safety and Disasters;Helicopters;Airports;Fires and Firefighters;Deaths (Fatalities);Figure Skating;Skating Club of Boston;Potomac River;Virginia;Wichita (Kan)",
+      "column": null,
+      "byline": "By Isabella Kwai, Christine Hauser, John Yoon and Tim Balk",
+      "type": "Article",
+      "title": "What We Know About the Plane and Helicopter Crash in Washington",
+      "abstract": "Sixty-seven people were killed after an American Airlines jet and a U.S. Army helicopter collided and crashed into the Potomac River.",
+      "des_facet": [
+        "American Airlines Flight 5342",
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "Helicopters",
+        "Airports",
+        "Fires and Firefighters",
+        "Deaths (Fatalities)",
+        "Figure Skating"
+      ],
+      "org_facet": [
+        "Skating Club of Boston"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Potomac River",
+        "Virginia",
+        "Wichita (Kan)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ec603228-725c-5521-9573-3e9aba906b12",
+      "url": "https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-fauci-milley-cheney-jan-6.html",
+      "id": 100000009922930,
+      "asset_id": 100000009922930,
+      "source": "New York Times",
+      "published_date": "2025-01-20",
+      "updated": "2025-01-23 06:53:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Amnesties, Commutations and Pardons;Presidents and Presidency (US);United States Politics and Government;Biden, Joseph R Jr;Fauci, Anthony S;Milley, Mark A;Cheney, Liz;Biden, James Brian;Biden, Hunter;House Select Committee to Investigate the January 6th Attack",
+      "column": null,
+      "byline": "By Peter Baker and Michael D. Shear",
+      "type": "Article",
+      "title": "Biden in Final Hours Pardons Relatives and Others to Thwart Trump Reprisals",
+      "abstract": "President Biden used his executive clemency power to protect people targeted by Donald J. Trump, including five members of his family as well as Liz Cheney, Anthony S. Fauci and Mark A. Milley.",
+      "des_facet": [
+        "Amnesties, Commutations and Pardons",
+        "Presidents and Presidency (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Fauci, Anthony S",
+        "Milley, Mark A",
+        "Cheney, Liz",
+        "Biden, James Brian",
+        "Biden, Hunter"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Anthony S. Fauci is one of several people President Biden pardoned on Monday morning.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/reporter-update-fauci-01-qzjm/reporter-update-fauci-01-qzjm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/reporter-update-fauci-01-qzjm/reporter-update-fauci-01-qzjm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/20/multimedia/reporter-update-fauci-01-qzjm/reporter-update-fauci-01-qzjm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/359a6835-fe52-5410-9d55-119a8175bbe2",
+      "url": "https://www.nytimes.com/2025/01/21/us/trump-birthright-citizenship.html",
+      "id": 100000009939833,
+      "asset_id": 100000009939833,
+      "source": "New York Times",
+      "published_date": "2025-01-21",
+      "updated": "2025-01-22 08:53:03",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Citizenship and Naturalization;Federal-State Relations (US);United States Politics and Government;Illegal Immigration;Fourteenth Amendment (US Constitution);Presidential Power (US);Executive Orders and Memorandums;Suits and Litigation (Civil);States (US);Attorneys General;Trump, Donald J;San Francisco (Calif);Washington (DC)",
+      "column": null,
+      "byline": "By Mattathias Schwartz and Mike Baker",
+      "type": "Article",
+      "title": "Twenty-two States Sue to Stop Trump’s Birthright Citizenship Order",
+      "abstract": "The lawsuit to block the president’s executive order is the first salvo in what is likely to be a long-running legal fight over immigration policy.",
+      "des_facet": [
+        "Citizenship and Naturalization",
+        "Federal-State Relations (US)",
+        "United States Politics and Government",
+        "Illegal Immigration",
+        "Fourteenth Amendment (US Constitution)",
+        "Presidential Power (US)",
+        "Executive Orders and Memorandums",
+        "Suits and Litigation (Civil)",
+        "States (US)",
+        "Attorneys General"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "San Francisco (Calif)",
+        "Washington (DC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump signed a series of executive orders in the first hours of his term.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/21/multimedia/21nat-states-birthright-02-pwmj/21nat-states-birthright-02-pwmj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/21/multimedia/21nat-states-birthright-02-pwmj/21nat-states-birthright-02-pwmj-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/21/multimedia/21nat-states-birthright-02-pwmj/21nat-states-birthright-02-pwmj-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/6567bdfd-4b48-571d-b37c-5369d5680e89",
+      "url": "https://www.nytimes.com/interactive/2025/travel/places-to-travel-destinations-2025.html",
+      "id": 100000009880161,
+      "asset_id": 100000009880161,
+      "source": "New York Times",
+      "published_date": "2025-01-06",
+      "updated": "2025-01-20 16:15:06",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "vis-design;internal-disable-fab;Travel and Vacations;Two Thousand Twenty Five;England;Galapagos Islands;New York City;Assam (India);Koh Samui (Thailand);Greenland;Aix-en-Provence (France);Sun Valley (Idaho);Lumbini (Nepal);Sydney (Australia);Coimbra (Portugal);Angola;Hamburg (Germany);Nicaragua;Dolomite Mountains (Italy);Asheville (NC);Magdalena River (Colombia);Los Cabos (Mexico);Alishan Forest (Taiwan);Flow Country (Scotland);Kristiansand (Norway);Bukhara (Uzbekistan);Lexington (Mass);Concord (Mass);Canfranc (Spain);Benin City (Nigeria);Amsterdam (Netherlands);New Orleans (La);Raja Ampat Islands (Indonesia);Delphi (Greece);Toyama (Japan);Basque Region (France);Kilifi (Kenya);Virgin Islands (Great Britain);Lofoten Islands (Norway);London (England);Stockholm (Sweden);Kutaisi (Georgia);Osaka (Japan);Detroit (Mich);Ontario (Canada);Montserrat (Spain);Australia;Washington (DC);Nangma Valley (Pakistan);Sicily (Italy);Ollantaytambo (Peru);Abu Dhabi (United Arab Emirates);Huangshan (China);Milan (Italy);Bulgaria;Rotterdam (Netherlands);Montserrat",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Interactive",
+      "title": "52 Places to Go in 2025",
+      "abstract": "Where will the new year take you? Kick-start your travel plans by selecting favorites from our annual list.",
+      "des_facet": [
+        "vis-design",
+        "internal-disable-fab",
+        "Travel and Vacations",
+        "Two Thousand Twenty Five"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "England",
+        "Galapagos Islands",
+        "New York City",
+        "Assam (India)",
+        "Koh Samui (Thailand)",
+        "Greenland",
+        "Aix-en-Provence (France)",
+        "Sun Valley (Idaho)",
+        "Lumbini (Nepal)",
+        "Sydney (Australia)",
+        "Coimbra (Portugal)",
+        "Angola",
+        "Hamburg (Germany)",
+        "Nicaragua",
+        "Dolomite Mountains (Italy)",
+        "Asheville (NC)",
+        "Magdalena River (Colombia)",
+        "Los Cabos (Mexico)",
+        "Alishan Forest (Taiwan)",
+        "Flow Country (Scotland)",
+        "Kristiansand (Norway)",
+        "Bukhara (Uzbekistan)",
+        "Lexington (Mass)",
+        "Concord (Mass)",
+        "Canfranc (Spain)",
+        "Benin City (Nigeria)",
+        "Amsterdam (Netherlands)",
+        "New Orleans (La)",
+        "Raja Ampat Islands (Indonesia)",
+        "Delphi (Greece)",
+        "Toyama (Japan)",
+        "Basque Region (France)",
+        "Kilifi (Kenya)",
+        "Virgin Islands (Great Britain)",
+        "Lofoten Islands (Norway)",
+        "London (England)",
+        "Stockholm (Sweden)",
+        "Kutaisi (Georgia)",
+        "Osaka (Japan)",
+        "Detroit (Mich)",
+        "Ontario (Canada)",
+        "Montserrat (Spain)",
+        "Australia",
+        "Washington (DC)",
+        "Nangma Valley (Pakistan)",
+        "Sicily (Italy)",
+        "Ollantaytambo (Peru)",
+        "Abu Dhabi (United Arab Emirates)",
+        "Huangshan (China)",
+        "Milan (Italy)",
+        "Bulgaria",
+        "Rotterdam (Netherlands)",
+        "Montserrat"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Poras Chaudhary for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/travel/07-52places-2025-promo/07-52places-2025-promo-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/travel/07-52places-2025-promo/07-52places-2025-promo-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/travel/07-52places-2025-promo/07-52places-2025-promo-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/84f10275-1268-52d3-8726-15d5bb28b1ec",
+      "url": "https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html",
+      "id": 100000009966392,
+      "asset_id": 100000009966392,
+      "source": "New York Times",
+      "published_date": "2025-02-03",
+      "updated": "2025-02-05 09:37:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Government Employees;United States Politics and Government;Federal Budget (US);Ethics and Official Misconduct;Conflicts of Interest;Layoffs and Job Reductions;Appointments and Executive Changes;Presidential Transition (US);Musk, Elon;Trump, Donald J;Meink, Troy E;Government Efficiency Department (US);Treasury Department;United States Agency for International Development;United States Air Force",
+      "column": null,
+      "byline": "By Jonathan Swan, Theodore Schleifer, Maggie Haberman, Kate Conger, Ryan Mac and Madeleine Ngo",
+      "type": "Article",
+      "title": "Inside Musk’s Aggressive Incursion Into the Federal Government",
+      "abstract": "The billionaire is creating major upheaval as his team sweeps through agencies, in what has been an extraordinary flexing of power by a private individual.",
+      "des_facet": [
+        "Government Employees",
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Ethics and Official Misconduct",
+        "Conflicts of Interest",
+        "Layoffs and Job Reductions",
+        "Appointments and Executive Changes",
+        "Presidential Transition (US)"
+      ],
+      "org_facet": [
+        "Government Efficiency Department (US)",
+        "Treasury Department",
+        "United States Agency for International Development",
+        "United States Air Force"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J",
+        "Meink, Troy E"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Empowered by President Trump, Elon Musk is waging a largely unchecked war against the federal bureaucracy.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-takeover-01-jkmc/03dc-musk-takeover-01-jkmc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-takeover-01-jkmc/03dc-musk-takeover-01-jkmc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-takeover-01-jkmc/03dc-musk-takeover-01-jkmc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/92553508-6549-5031-b4b5-84963daa1a02",
+      "url": "https://www.nytimes.com/2025/01/20/us/politics/elon-musk-hand-gesture-speech.html",
+      "id": 100000009938319,
+      "asset_id": 100000009938319,
+      "source": "New York Times",
+      "published_date": "2025-01-20",
+      "updated": "2025-01-23 09:49:08",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Holocaust and the Nazi Era;Presidential Election of 2024;Speeches and Statements;Symbols;Musk, Elon;Trump, Donald J",
+      "column": null,
+      "byline": "By Ryan Mac",
+      "type": "Article",
+      "title": "Elon Musk Ignites Online Speculation Over the Meaning of a Hand Gesture",
+      "abstract": "Speaking at a celebratory rally in Washington, Mr. Musk twice extended his arm out with his palm facing down, drawing comparisons to the Nazi salute.",
+      "des_facet": [
+        "Holocaust and the Nazi Era",
+        "Presidential Election of 2024",
+        "Speeches and Statements",
+        "Symbols"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/ea19026f-937b-54a5-aeec-7e9358c3e78a",
+      "url": "https://www.nytimes.com/interactive/2025/01/12/well/health-tips-experts.html",
+      "id": 100000009911188,
+      "asset_id": 100000009911188,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-16 11:00:26",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Habits and Routines (Behavior);Medicine and Health;Content Type: Service;vis-design;Diet and Nutrition;Exercise",
+      "column": null,
+      "byline": "By Amanda Schupak",
+      "type": "Interactive",
+      "title": "35 Simple Health Tips Experts Swear By",
+      "abstract": "They’re surprising, and surprisingly effective. And they’ll help you feel better every single day.",
+      "des_facet": [
+        "Habits and Routines (Behavior)",
+        "Medicine and Health",
+        "Content Type: Service",
+        "vis-design",
+        "Diet and Nutrition",
+        "Exercise"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Lorena Spurio",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/well/11health-tips-experts-staticpromo/11health-tips-experts-staticpromo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/well/11health-tips-experts-staticpromo/11health-tips-experts-staticpromo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/well/11health-tips-experts-staticpromo/11health-tips-experts-staticpromo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/400de6c0-f1ba-527a-bb93-43993c0dd380",
+      "url": "https://www.nytimes.com/2025/01/07/health/hmpv-virus-china.html",
+      "id": 100000009910231,
+      "asset_id": 100000009910231,
+      "source": "New York Times",
+      "published_date": "2025-01-07",
+      "updated": "2025-01-15 06:53:38",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Human Metapneumovirus (HMPV);Coronavirus (2019-nCoV);Disease Rates;Respiratory Syncytial Virus (RSV);your-feed-science;your-feed-healthcare;internal-storyline-no;Chinese Centers for Disease Control and Prevention;World Health Organization;China",
+      "column": null,
+      "byline": "By Stephanie Nolen",
+      "type": "Article",
+      "title": "What We Know About HMPV, the Common Virus Spreading in China",
+      "abstract": "While cases are climbing in China, the situation is very different from what it was when Covid-19 emerged five years ago, medical experts say. HMPV has circulated in humans for decades.",
+      "des_facet": [
+        "Human Metapneumovirus (HMPV)",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Respiratory Syncytial Virus (RSV)",
+        "your-feed-science",
+        "your-feed-healthcare",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+        "Chinese Centers for Disease Control and Prevention",
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X-ray of a four-month-old boy infected with human metapneumovirus, or H.M.P.V. Severe cases of the disease can result in bronchitis or pneumonia, particularly among infants, the elderly and immunocompromised people.",
+          "copyright": "Hilmes et al., Pediatric Radiology, 2017",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/06/multimedia/xx-HMPV-explainer-mqbt/xx-HMPV-explainer-mqbt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/06/multimedia/xx-HMPV-explainer-mqbt/xx-HMPV-explainer-mqbt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/06/multimedia/xx-HMPV-explainer-mqbt/xx-HMPV-explainer-mqbt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1283130f-60b3-5edc-b290-e29cca484557",
+      "url": "https://www.nytimes.com/2025/01/07/us/politics/deb-fischer-husband-handshake.html",
+      "id": 100000009912714,
+      "asset_id": 100000009912714,
+      "source": "New York Times",
+      "published_date": "2025-01-07",
+      "updated": "2025-01-09 11:22:10",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Fischer, Deb;Harris, Kamala D;McCormick, David H (1965- );Senate;C-Span;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Denying a Handshake to Harris, Senator’s Husband Draws Criticism",
+      "abstract": "The husband of Senator Deb Fischer, Republican of Nebraska, drew criticism online when he failed to accept a handshake offered by Vice President Kamala D. Harris at his wife’s ceremonial swearing-in.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate",
+        "C-Span",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Fischer, Deb",
+        "Harris, Kamala D",
+        "McCormick, David H (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The awkward interaction between Vice President Kamala Harris and the husband of Senator Deb Fischer, Republican of Nebraska, was captured on C-SPAN cameras. ",
+          "copyright": "Manuel Balce Ceneta/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/multimedia/07dc-fischer-topart-fljc/07dc-fischer-topart-fljc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/multimedia/07dc-fischer-topart-fljc/07dc-fischer-topart-fljc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/multimedia/07dc-fischer-topart-fljc/07dc-fischer-topart-fljc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

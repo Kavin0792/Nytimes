@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Placeholder=yes, Enhanced=no, Failed=no, Pending=no, Refund=no, Split bill request=no, Split bill mark=no.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Placeholder=yes, Enhanced=no, Failed=no, Pending=no, Refund=no, Split bill request=no, Split bill mark=no@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Placeholder=yes, Enhanced=no, Failed=no, Pending=no, Refund=no, Split bill request=no, Split bill mark=no@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
