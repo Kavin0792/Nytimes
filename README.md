@@ -1,4 +1,5 @@
 **NYTimes Application **
+------------------------
 
 Assumptions: Show only list of 30 days most popular article with search option
 
