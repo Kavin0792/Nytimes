@@ -27,9 +27,7 @@ extension NYTimesEndPoint: EndPointType {
         }
     }
     
-    var httpMethod: HTTPMethod {
-            .get
-    }
+    var httpMethod: HTTPMethod { .get }
     
     var task: HTTPTask {
         let requestParameters: [String:Any] = ["api-key" : Constant.apiKey]
